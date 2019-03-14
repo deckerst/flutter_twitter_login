@@ -25,10 +25,10 @@ EXTERNAL SOURCES:
 
 SPEC CHECKSUMS:
   Flutter: 58dd7d1b27887414a370fcccb9e645c08ffd7a6a
-  flutter_twitter_login: ec2f2719fc6a2944326ac92db69012342b78d308
+  flutter_twitter_login: 35c902ebcb3d335ff290f308aed4893b4cb82c32
   TwitterCore: 8cbc9ad34d91c63a0035ea05bfbfc0d7ca72a28c
   TwitterKit: 5e4f41d70b9abdb41df5467f52d7aa2c0fd26ebb
 
-PODFILE CHECKSUM: aff02bfeed411c636180d6812254b2daeea14d09
+PODFILE CHECKSUM: ebd43b443038e611b86ede96e613bd6033c49497
 
 COCOAPODS: 1.6.0
